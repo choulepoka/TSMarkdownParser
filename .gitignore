@@ -1,6 +1,8 @@
 # OSX
 #
 .DS_Store
+.swiftpm
+.build
 
 ### Objective-C template
 # Xcode

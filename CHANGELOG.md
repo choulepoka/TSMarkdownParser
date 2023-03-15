@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 --- 
 
+## [2.2.0]
+
+- Better Swift Package Manage Support
+- Remove CocoaPods Support
+- Update the minimum versions
+
 ## [2.1.5](https://github.com/laptobbe/TSMarkdownParser/releases/tag/2.1.5) (2018/03/07)
 Released on 2018/03/07.
 
